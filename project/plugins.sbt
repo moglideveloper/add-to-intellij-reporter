@@ -1,0 +1,1 @@
+addSbtPlugin("io.github.logicpluscode" %% "fluent-style-sbt" % "0.0.2")
